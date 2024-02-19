@@ -1,17 +1,10 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+comments: true
+---
+# 文档介绍
+## Introduction
+这里收录了关于编辑者在计算机学习过程中的一些笔记
+## About
+YaShiho，编辑者很懒，很多内容不全，很多内容没有
+## mkdocs
+[参考文档](https://squidfunk.github.io/mkdocs-material/getting-started/)
