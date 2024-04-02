@@ -25,6 +25,8 @@ theme:
 repo_url: https://github.com/legacy-love/legacy-love
 repo_name: legacy-love/legacy-love
 markdown_extensions: 
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -57,4 +59,5 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
-  
+plugins: 
+  - glightbox
